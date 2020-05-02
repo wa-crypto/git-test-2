@@ -34,3 +34,9 @@ body{
 .navbar-dark{
     background-color: #512DAB;
 }
+#close{
+    float:right;
+    display:block;
+    margin-right:0px;
+    clear:left;
+}
